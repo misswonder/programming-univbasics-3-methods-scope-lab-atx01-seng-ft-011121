@@ -12,7 +12,8 @@ def toadstool
 end
 tooadstool
 
-
+def link 
+  warning = 
 
 
 
