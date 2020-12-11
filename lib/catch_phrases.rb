@@ -13,8 +13,11 @@ end
 tooadstool
 
 def link 
-  warning = 
-
+  warning =  "It's Dangerous To Go Alone! Take This."
+  puts warning
+  warning
+end
+link 
 
 
 
