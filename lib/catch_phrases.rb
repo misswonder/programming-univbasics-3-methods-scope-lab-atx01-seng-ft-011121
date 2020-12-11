@@ -27,9 +27,9 @@ def all_phrases
   # puts status
   # puts warning 
   # [phrase, status, warning]
-  mario
-  toadstool
-  link
+  # mario
+  # toadstool
+  # link
 end
 all_phrases
 
