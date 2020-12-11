@@ -10,7 +10,7 @@ def toadstool
   puts status
   status
 end
-tooadstool
+toadstool
 
 def link 
   warning = "It's Dangerous To Go Alone! Take This."
