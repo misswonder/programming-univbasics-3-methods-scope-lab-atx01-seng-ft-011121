@@ -26,7 +26,7 @@ def all_phrases
   puts phrase
   puts status
   puts warning 
-  phrase, status, warning
+  [phrase, status, warning]
 end
 all_phrases
 
