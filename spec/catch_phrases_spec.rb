@@ -1,4 +1,4 @@
-spec/catch_phrase_spec.rbrequire 'spec_helper'
+require 'spec_helper'
 
 describe "mario" do
   it "puts out 'It's-a me, Mario!'" do
