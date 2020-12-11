@@ -26,8 +26,7 @@ def all_phrases
   puts phrase
   puts status
   puts warning 
-  
-  [phrase, status, warning].join("\n")
+  #[phrase, status, warning].join("\n")
   # mario
   # toadstool
   # link
